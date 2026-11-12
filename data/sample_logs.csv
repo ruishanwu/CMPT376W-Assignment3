@@ -1,0 +1,7 @@
+timestamp,level,message
+2026-01-03T09:00:00Z,INFO,Startup complete
+2026-01-03T09:05:00Z,WARN,Memory usage high
+2026-01-03T09:10:00Z,ERROR,Connection lost
+2026-01-03T09:12:00Z,INFO,Retry started
+2026-01-03T09:15:00Z,ERROR,Connection lost again
+2026-01-03T09:20:00Z,WARN,Disk capacity low
